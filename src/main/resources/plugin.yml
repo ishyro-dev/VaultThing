@@ -1,0 +1,4 @@
+name: VaultThing
+version: '${project.version}'
+main: me.ishyro.vaultthing.VaultThing
+api-version: '1.20'
